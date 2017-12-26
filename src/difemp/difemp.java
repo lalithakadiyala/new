@@ -10,7 +10,7 @@ public class difemp {
 		etouch empobj= new etouch( "Lalitha", 700000, 700.90, "Assistant");
 		empobj.display();
 
-		Techm1 Techobj= new Techm1 ("AKshaya", 879898, 980.98, "AGSA");
+		Techm1 Techobj= new Techm1 ("AKshaya", 887990, 980.98, "AGSA");
 		Techobj.display1();
 
 	}
